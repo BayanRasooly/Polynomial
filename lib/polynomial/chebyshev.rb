@@ -3,7 +3,7 @@ require File.join(my_path, '../polynomial')
 
 class Polynomial
 
-  # Generate Chebyshev polynomials of first and second kinds.
+  # Generate Chebyshev polynomials of first and second ki=
   # For the mathematics, see {Wikipedia entry}[http://en.wikipedia.org/wiki/Chebyshev_polynomials].
   #
   module Chebyshev
